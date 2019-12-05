@@ -1,0 +1,26 @@
+{
+  "name": "typescriptoauth",
+  "version": "1.0.0",
+  "description": "boilerplate for oauth",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/express": "^4.17.2",
+    "@types/express-session": "^1.15.16",
+    "@types/mongoose": "^5.5.32",
+    "@types/passport": "^1.0.2",
+    "@types/passport-github2": "^1.2.4",
+    "axios": "^0.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "mongoose": "^5.7.13",
+    "passport": "^0.4.0",
+    "passport-github2": "^0.1.11"
+  }
+}
